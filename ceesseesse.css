@@ -1,0 +1,87 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+table tr td {
+ table-layout: fixed;
+ text-align: center;
+	    border: 1px solid black;
+    background: #E0FFFF;
+	border-collapse: collapse; 
+ border: 1px;
+ 	border-color: black;
+align: center;
+
+
+}
+ body {
+
+padding: 20px;
+ background-color: white;
+margin: 30px;
+border-radius: 30px;
+box-shadow: 5px 5px 3px;
+font-family:  'Otomanopee One', sans-serif; 
+font-size: 1em;
+	background-image: linear-gradient (to right, ##EEE8AA #7CFC00);
+ 
+		background-color:#BCEE68 ;
+		                              
+		text-align-last:center;
+color: #008B45;
+	}
+main {
+	text-align-last:center, justify;
+font-family: 'Sriracha', cursive;
+	background-color: white;
+margin: 30px;
+border-radius: 30px;
+box-shadow: 5px 5px 3px;
+font-size: 1em;
+text-indent: 80px;
+padding: 40px;
+}
+	h1 {text-shadow: 1px 1px 2px;
+	color: darkgreen }
+p {color: darkgreen}
+
+h2 {text-align: left;
+	
+	color:darkgreen; }
+h3 {text-align: left;
+	
+	color:#2E8B57;}
+
+header{
+font-family: 'Otomanopee One', sans-serif;
+font-weight: bold;
+padding: 20px;
+	color:#458B00;}
+
+section{background-color: lightgreen;
+	margin: 30px;
+border-radius: 30px;
+box-shadow: 5px 5px 3px;
+font-size: 1em;
+text-indent: 80px;
+padding: 40px;
+text-align:center, justify;
+color: darkgreen;
+}
+
+article {
+	background-color: #E0FFFF;
+	margin: 30px;
+border-radius: 30px;
+box-shadow: 5px 5px 3px;
+font-size: 1em;
+text-indent: 80px;
+padding: 40px;
+text-align:center, justify;
+
+
+}
+
+footer{
+font-style: italic;
+font-size: 12px;
+}
